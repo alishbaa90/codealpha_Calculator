@@ -1,5 +1,4 @@
 # codealpha_Calculator
-# Simple Calculator
 
 A simple calculator built using HTML, CSS, and JavaScript. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It features a user-friendly interface with a responsive design.
 
